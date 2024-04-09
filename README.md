@@ -26,6 +26,6 @@
  📫 How to reach me: agrawalkhushi475@gmail.com
  <br>
  <br>
- My Resume:- https://drive.google.com/file/d/1Kbof9syBVMS4pHBDUlVMc-GuW9z6AsPR/view?usp=drive_link
+ My Resume:- https://drive.google.com/file/d/1j0m-E-1-DQx1ltflSCY4Y8iW1CyVrPJH/view?usp=drive_link
 
 
