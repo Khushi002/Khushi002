@@ -5,7 +5,7 @@
 🚀 Aspiring Fullstack Developer and Software Engineer.
 <br>
 <br>
-💻 Proficient in<b> C | C++ | HTML | CSS | JavaScript | PHP.</b>
+💻 Proficient in<b> C | C++ | HTML | CSS | JavaScript | React.js.</b>
 <br>
 <br>
 🔍 Exploring the intricacies of <b>Data Structures and Algorithms.</b>
