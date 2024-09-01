@@ -1,7 +1,9 @@
 ### Hi 👋 KHUSHI here,
 
 - 👋 Hey there, I'm Khushi Agrawal – a determined coder with a knack for crafting both the front-end and back-end magic.
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=khushi002&label=Profile%20Views&icon=1&pretty=false" />
+</a>
 🚀 Aspiring Fullstack Developer and Software Engineer.
 <br>
 <br>
