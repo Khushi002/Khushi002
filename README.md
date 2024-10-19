@@ -34,7 +34,7 @@
 📚 Lifelong learner striving to master the art of problem-solving.
 <br>
 <br>
- 🌱 I’m currently learning MERN Stack
+ 🌱 I’m currently learning MERN Stack and Data Analytics
  <br>
  <br>
  💬 Ask me about DSA, Core Subjects , Frontend Technologies
