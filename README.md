@@ -1,5 +1,5 @@
 
-### <h1 align="center">hii 👋, Khushii here </h1>
+### <h1 align="center">hii 👋, Khushi here </h1>
 
 
 - 👋 Hey there, I'm Khushiiii Agrawal – a determined coder with a knack for crafting both the front-end and back-end magic.
