@@ -2,7 +2,7 @@
 ### <h1 align="center">hii 👋, Khushii here </h1>
 
 
-- 👋 Hey there, I'm Khushiiii Agrawal – a determined coder with a knack for crafting both the front-end and back-end magic.
+- 👋 Hey there, I'm Khushiiii Agrawal – a determineed coder with a knack for crafting both the front-end and back-end magic.
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=khushi002&label=Profile%20Views&icon=1&pretty=false" />
 </a>
